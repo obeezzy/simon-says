@@ -23,11 +23,12 @@ $ firefox localhost:8000
 ```
 3. Press _Start_.
 
-## How to use in your website
+## How to embed
 
 To embed this in your website, insert the following into your HTML code:
+
 ```html
-<script type="module" src="github"></script>
+<script type="module" src="https://raw.githubusercontent.com/obeezzy/simon-says/refs/heads/main/simon-says.js"></script>
 <simon-says></simon-says>
 ```
 
