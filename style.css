@@ -1,0 +1,10 @@
+:root {
+    font-family: system-ui;
+}
+
+simon-says {
+    max-width: 600px;
+    margin: 0 auto;
+    border: 2px solid black;
+    padding: 24px;
+}
